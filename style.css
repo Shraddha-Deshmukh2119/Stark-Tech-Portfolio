@@ -114,7 +114,7 @@ html{
   background-blend-mode: darken;
 }
 hr{
-  color: white;
+  color: rgb(235, 205, 205);
   shape-margin: 0%;
 }
 .nav-list{
